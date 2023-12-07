@@ -50,6 +50,7 @@
               ],
               "outputHashing": "all"
             },
+            
             "development": {
               "optimization": false,
               "extractLicenses": false,
@@ -96,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "84124874-c521-47b4-91d5-06b68483a4db"
   }
 }
